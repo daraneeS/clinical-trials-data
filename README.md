@@ -1,6 +1,6 @@
 # Clinical Trials 
 
-![gif](airflow.gif)
+![gif](images/airflow.gif)
 
 ![png](images/tree.png)
 
