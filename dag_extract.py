@@ -105,13 +105,7 @@ def clinicaltrial_api():
 
 
     # Flow
-    """
-    study_cols_str = list_to_str(study_cols)
-    study_df = get_n_rows(study_cols_str)
-    study_df_total = remove_list_cols(study_df)
-    load_to_local(study_df_total)
-    """
-    #############################
+ 
     study_cols_str = list_to_str(study_cols)
     study_df1  = get_n_rows(study_cols_str)
     study_df2 = get_the_rest_rows(study_cols_str) 
